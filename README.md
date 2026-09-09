@@ -1,4 +1,4 @@
-### Halo, Saya [Nama Kamu] 👋
+### EZRA GILANG RAHARJO
 
 - 🔭 Saya sedang fokus mempelajari pengembangan web dan sistem industri.
 - 🌱 Saat ini saya sedang mendalami **Tailwind CSS dan JavaScript**.
