@@ -15,5 +15,3 @@
 
 ---
 
-### 📊 Statistik GitHub Saya:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sodiumKlorida&show_icons=true&theme=radical)
